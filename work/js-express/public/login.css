@@ -1,0 +1,44 @@
+.login-page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+	margin-top: 100px;
+    padding: auto;
+	font-size: 35px;
+	margin-bottom: auto;
+	align-items: center;
+}
+
+button {
+	font-size: 70%;
+	margin-left: 20px;
+}
+
+.login-page-info {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: row;
+	align-items: center
+}
+
+.label-info {
+	display: flex;
+	flex-direction: column;
+}
+
+.login-input {
+	display: flex;
+	flex-direction: column;
+	margin-left: 20px;
+}
+
+.label-username {
+	margin-bottom: 18px;
+}
+
+.username-info{
+	margin-left: 20px;
+	height: 30px;
+	margin-bottom: 18px;
+	font-size: 50%
+}

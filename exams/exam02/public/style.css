@@ -1,0 +1,13 @@
+.specificPage {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnBack {
+    align-self: flex-end;
+}
+
+.addRecipePage {
+    display: flex;
+    flex-direction: column;
+}
